@@ -1,9 +1,6 @@
 # About us
 
-
-**ngaps/ngaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello! We are a group of early career scientists at NASA Goddard. Our goal is to provide a space for community and belonging both on and off center. We have a wide range of resources available to help current/incoming/prospective scientists and we'd love to help you out!
 
 - 🔭 We're currently working on promoting community for early career researchers at NASA GSFC.
 - 🌱 We're currently learning how to make a website on GitHub for NGAPS+
